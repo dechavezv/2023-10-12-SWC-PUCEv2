@@ -4,8 +4,8 @@ venue: "Universidad Espíritu Santo"        # nombre breve del espacio donde se 
 address: "Av. Samborondón 5, Samborondón 092301, Guayaquil, Ecuador"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "ECU"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "es"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
-latitude: "-2.133164"       # latitud del espacio en formato decimal (por ejemplo, "41.7901128" - usar http://www.latlong.net/)
-longitude: "-79.865778"    # longitud del espacio en formato decimal (por ejemplo, "-87.6007318" - usar http://www.latlong.net/)
+latitude: "-79.865778"       # latitud del espacio en formato decimal (por ejemplo, "41.7901128" - usar http://www.latlong.net/)
+longitude: "-2.133164"    # longitud del espacio en formato decimal (por ejemplo, "-87.6007318" - usar http://www.latlong.net/)
 humandate: "Octubre 17-18, 2022"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
 startdate: 2022-10-17      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
@@ -43,11 +43,11 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 </iframe>
 {% endif %}
 
-
+{% comment %}
 
 <h4>Esta es la plantilla de taller. Elimina éstas líneas y utilíza la plantilla para personalizar tu propio sitio web. Si estás desarrollando un taller auto-gestionado o aún no hiciste una solicitud de pedido de taller, por favor completa este <a href="{{site.amy_site}}/submit">formulario</a> para notificarnos y que nuestra administradora pueda contactarte si necesitamos información adicional.</h4>
 
-
+{% endcomment %}
 
 <h2 id="general">Información General</h2>
 
