@@ -44,7 +44,6 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 </iframe>
 {% endif %}
 
-<h4>Para Registrarse enviar email a dechavezv@g.ucla.edu (Máximo 25 participantes) <h4>
 
 {% comment %}
 
