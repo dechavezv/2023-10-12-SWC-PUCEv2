@@ -6,7 +6,7 @@ country: "ECU"      # código ISO del país, dos letras en minúscula como por e
 language: "es"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-0.210843,-78.490922"
 humandate: "Octubre 12-21, 2023 (Jueves, Viernes y Sábados)"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
-humantime: "17:00 - 19:00 (J,V) y 9:00 - 13:00 (S)  "    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
+humantime: "16:00 - 19:00 (J,V) y 9:00 - 13:00 (S)  "    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
 startdate: 2023-10-12      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
 enddate: 2023-10-21        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
 instructor: ["Daniel Chávez, Andrés Merino"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
