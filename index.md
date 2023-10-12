@@ -207,6 +207,8 @@ También es requerido que respeten el
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Encuesta pre-taller</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Encuesta post-taller</a></p>
 
+<p>Utilizaremos este <a href="https://pad.carpentries.org/Jyg686gjWTjYn6jO7P53"> documento colaborativo</a> para chatear, tomar notas y compartir URL y fragmentos de código.
+</p>
 
 {% if site.carpentry == "swc" %}
   {% include sc/schedule.html %}
